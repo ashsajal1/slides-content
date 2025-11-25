@@ -1,5 +1,3 @@
-Here are five one-line "do not" slides with code examples:
-
 1. **Do not expect immediate state changes - the set function only updates for the next render**
 ```javascript
 setCount(count + 1);
